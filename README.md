@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">•Web & Mobile Development: Expert in front-end and back-end technologies like HTML, CSS, JavaScript, Vue.js, PHP, and mobile frameworks like Android Studio.<br>•Networking Enthusiast: network administration and tools like Fortinet, Wireshark, and Snort, with a strong interest in network security and distributed systems.<br>•System Architecture: Adept at designing and implementing scalable systems with a keen focus on security and performance.</h4>
+<p align="left">•Web & Mobile Development: Expert in front-end and back-end technologies like HTML, CSS, JavaScript, Vue.js, PHP, and mobile frameworks like Android Studio.<br>•Networking Enthusiast: network administration and tools like Fortinet, Wireshark, and Snort, with a strong interest in network security and distributed systems.<br>•System Architecture: Adept at designing and implementing scalable systems with a keen focus on security and performance.</p>
 
 ###
 
