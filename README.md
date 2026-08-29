@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">’m a Computer Systems and Networks Engineer 👨‍💻 passionate about networking, software development, cybersecurity, and IT infrastructure. I enjoy designing and implementing robust, scalable, and secure solutions to solve complex technical challenges while continuously learning and exploring new technologies.</p>
+<p align="left">I’m a Computer Systems and Networks Engineer 👨‍💻 passionate about networking, software development, cybersecurity, and IT infrastructure. I enjoy designing and implementing robust, scalable, and secure solutions to solve complex technical challenges while continuously learning and exploring new technologies.</p>
 
 ###
 
